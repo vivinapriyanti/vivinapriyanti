@@ -2,15 +2,15 @@
 
 ### Activity Status
 
-https://github-readme-stats.vercel.app/api?username=vinsapr&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api?username=vivinapriyanti&show_icons=true&theme=radical
 
 ### Most Used Language
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=vivinapriyanti&layout=compact&theme=radical
 
 <br />
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=vinsapr&langs_count=8&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=vivinapriyanti&langs_count=8&theme=radical
 
 <!--
 **vinsapr/vinsapr** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
